@@ -9,7 +9,8 @@ Gerador de grafico básico a fins de estudo, utilizando de python e biliotecas, 
 
 ![image](https://github.com/user-attachments/assets/ed7d73b3-c54a-40b0-82f4-3c2ac7faf5eb)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fb08e695-ecd7-43f7-b919-17b98be009f9)
+
 
 
 
